@@ -1,0 +1,6 @@
+F:\Projects\Repositaries\Alghoritms\Alghoritms\bin\Debug\Alghoritms.exe.config
+F:\Projects\Repositaries\Alghoritms\Alghoritms\bin\Debug\Alghoritms.exe
+F:\Projects\Repositaries\Alghoritms\Alghoritms\bin\Debug\Alghoritms.pdb
+F:\Projects\Repositaries\Alghoritms\Alghoritms\obj\Debug\Alghoritms.exe
+F:\Projects\Repositaries\Alghoritms\Alghoritms\obj\Debug\Alghoritms.pdb
+F:\Projects\Repositaries\Alghoritms\Alghoritms\obj\Debug\Alghoritms.csprojResolveAssemblyReference.cache
