@@ -43,6 +43,7 @@
   <ItemGroup>
     <Compile Include="ArrayOperations.cs" />
     <Compile Include="BinaryTree.cs" />
+    <Compile Include="Data structures\Heaps.cs" />
     <Compile Include="Graphs\ShortestPathes.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

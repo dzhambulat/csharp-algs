@@ -6,3 +6,11 @@ F:\Projects\Repositaries\Alghoritms\AlgTest\bin\Debug\Alghoritms.pdb
 F:\Projects\Repositaries\Alghoritms\AlgTest\obj\Debug\AlgTest.csprojResolveAssemblyReference.cache
 F:\Projects\Repositaries\Alghoritms\AlgTest\obj\Debug\AlgTest.exe
 F:\Projects\Repositaries\Alghoritms\AlgTest\obj\Debug\AlgTest.pdb
+F:\Projects\Alghoritms\AlgTest\bin\Debug\AlgTest.exe.config
+F:\Projects\Alghoritms\AlgTest\obj\Debug\AlgTest.exe
+F:\Projects\Alghoritms\AlgTest\obj\Debug\AlgTest.pdb
+F:\Projects\Alghoritms\AlgTest\bin\Debug\AlgTest.exe
+F:\Projects\Alghoritms\AlgTest\bin\Debug\AlgTest.pdb
+F:\Projects\Alghoritms\AlgTest\bin\Debug\Alghoritms.exe
+F:\Projects\Alghoritms\AlgTest\bin\Debug\Alghoritms.pdb
+F:\Projects\Alghoritms\AlgTest\obj\Debug\AlgTest.csprojResolveAssemblyReference.cache
