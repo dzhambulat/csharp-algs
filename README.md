@@ -1,4 +1,4 @@
 csharp-algs
 ===========
 
-Alghoritms and date structures realization for C#
+Alghoritms and date structures implemetation for C#
